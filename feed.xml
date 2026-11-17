@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook PM — Tue Nov 17</title>
+      <description>Playbook PM: The presidential popularity ranks</description>
+      <pubDate>Tue, 17 Nov 2026 19:15:01 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-17-playbook-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-17-playbook-pm.mp3" length="4406928" type="audio/mpeg"/>
+      <itunes:duration>00:09:11</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl Midday — Tue Nov 17</title>
       <description>Punchbowl Midday: Jeffries on speaker vote and possible shutdown</description>
       <pubDate>Tue, 17 Nov 2026 18:24:09 GMT</pubDate>
