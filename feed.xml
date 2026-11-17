@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ken's Morning Read</title>
+    <link>https://kennethdeneau.github.io/newsletter-pod/</link>
+    <language>en-us</language>
+    <copyright>Private, unlisted</copyright>
+    <description>Unlisted personal feed. Not for distribution.</description>
+    <itunes:author>Ken</itunes:author>
+    <itunes:summary>Unlisted personal feed. Not for distribution.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Ken</itunes:name>
+      <itunes:email>ken.deneau@propher.co</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://kennethdeneau.github.io/newsletter-pod/cover.jpg"/>
+    <image><url>https://kennethdeneau.github.io/newsletter-pod/cover.jpg</url><title>Ken's Morning Read</title><link>https://kennethdeneau.github.io/newsletter-pod/</link></image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>yes</itunes:block>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="News"/>
+    <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
+  </channel>
+</rss>
