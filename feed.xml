@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Punchbowl Midday — Tue Nov 17</title>
+      <description>Punchbowl Midday: Jeffries on speaker vote and possible shutdown</description>
+      <pubDate>Tue, 17 Nov 2026 18:24:09 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-17-pb-midday</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-17-pb-midday.mp3" length="4219925" type="audio/mpeg"/>
+      <itunes:duration>00:08:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl PM — Mon Nov 16</title>
       <description>Punchbowl PM: Duffy’s hostile Hill reception</description>
       <pubDate>Tue, 17 Nov 2026 17:21:11 GMT</pubDate>
