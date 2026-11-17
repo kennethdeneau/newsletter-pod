@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Punchbowl PM — Mon Nov 16</title>
+      <description>Punchbowl PM: Duffy’s hostile Hill reception</description>
+      <pubDate>Tue, 17 Nov 2026 17:21:11 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-16-pb-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-16-pb-pm.mp3" length="5323729" type="audio/mpeg"/>
+      <itunes:duration>00:11:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Playbook PM — Mon Nov 16</title>
       <description>Playbook PM: The Nvidia scandal, according to Trump</description>
       <pubDate>Tue, 17 Nov 2026 17:20:26 GMT</pubDate>
