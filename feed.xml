@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Tue Nov 17</title>
+      <description>Playbook AM: Chips down, knives out</description>
+      <pubDate>Tue, 17 Nov 2026 12:29:12 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-17-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-17-playbook-am.mp3" length="4842000" type="audio/mpeg"/>
+      <itunes:duration>00:10:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morning: Punchbowl AM + Inside Congress — Tue Nov 17</title>
       <description>Punchbowl AM: Jeffries flips the script on the left / Inside Congress: No quick exit from Dem leader brawl</description>
       <pubDate>Tue, 17 Nov 2026 12:28:25 GMT</pubDate>
