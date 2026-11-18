@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-18-playbook-am",
+  "title": "Playbook AM — Wed Nov 18",
+  "description": "Playbook AM: ‘This is crazy stuff’",
+  "path": "episodes/nlpod-2026-11-18-playbook-am.mp3",
+  "length": 5010960,
+  "duration": "00:10:26",
+  "seconds": 626,
+  "pubDate": "Wed, 18 Nov 2026 11:13:14 GMT",
+  "published_utc": "2026-11-18T11:13:14.063177+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-18-morning",
   "title": "Morning: Punchbowl AM + Inside Congress — Wed Nov 18",
   "description": "Punchbowl AM: Is the government shutting down? / Inside Congress: Robert Garcia makes his target list",
