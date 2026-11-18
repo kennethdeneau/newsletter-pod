@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-18-pm-pulse",
+  "title": "PM Pulse — Wed Nov 18",
+  "description": "PM Pulse: The PM Pulse 091",
+  "path": "episodes/nlpod-2026-11-18-pm-pulse.mp3",
+  "length": 4775565,
+  "duration": "00:09:57",
+  "seconds": 597,
+  "pubDate": "Wed, 18 Nov 2026 19:51:14 GMT",
+  "published_utc": "2026-11-18T19:51:14.422045+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-18-playbook-pm",
   "title": "Playbook PM — Wed Nov 18",
   "description": "Playbook PM: White House swats back at Garcia",
