@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-18-pb-midday",
+  "title": "Punchbowl Midday — Wed Nov 18",
+  "description": "Punchbowl Midday: It’s Jeffries",
+  "path": "episodes/nlpod-2026-11-18-pb-midday.mp3",
+  "length": 4004885,
+  "duration": "00:08:21",
+  "seconds": 501,
+  "pubDate": "Wed, 18 Nov 2026 18:15:50 GMT",
+  "published_utc": "2026-11-18T18:15:50.461253+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-18-playbook-am",
   "title": "Playbook AM — Wed Nov 18",
   "description": "Playbook AM: ‘This is crazy stuff’",
