@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook PM — Wed Nov 18</title>
+      <description>Playbook PM: White House swats back at Garcia</description>
+      <pubDate>Wed, 18 Nov 2026 18:35:01 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-18-playbook-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-18-playbook-pm.mp3" length="3871824" type="audio/mpeg"/>
+      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl Midday — Wed Nov 18</title>
       <description>Punchbowl Midday: It’s Jeffries</description>
       <pubDate>Wed, 18 Nov 2026 18:15:50 GMT</pubDate>
