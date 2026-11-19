@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Punchbowl PM — Thu Nov 19</title>
+      <description>Punchbowl PM: Senate permitting pinnacle</description>
+      <pubDate>Thu, 19 Nov 2026 23:00:30 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-19-pb-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-19-pb-pm.mp3" length="4120081" type="audio/mpeg"/>
+      <itunes:duration>00:08:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Playbook PM — Thu Nov 19</title>
       <description>Playbook PM: Salazar’s search for immigration breakthrough</description>
       <pubDate>Thu, 19 Nov 2026 19:33:00 GMT</pubDate>
