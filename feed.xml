@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Redistricting ban fair value (2 of 2)</title>
+      <description>Will the House pass a mid-decade redistricting ban before Jan 1, 2028? As of Nov 18, 2026.</description>
+      <pubDate>Thu, 19 Nov 2026 00:28:01 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-18-redistricting-ban-b</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-18-redistricting-ban-b.mp3" length="5359148" type="audio/mpeg"/>
+      <itunes:duration>00:11:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Redistricting ban fair value (1 of 2)</title>
       <description>Fair Value Assessment: Will House Democrats pass a mid-decade congressional redistricting ban by Jan 1, 2028? As of Nov 18, 2026.</description>
       <pubDate>Thu, 19 Nov 2026 00:27:58 GMT</pubDate>
