@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Thu Nov 19</title>
+      <description>Playbook AM: Mullin’s on TV time-out</description>
+      <pubDate>Thu, 19 Nov 2026 11:22:23 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-19-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-19-playbook-am.mp3" length="5697552" type="audio/mpeg"/>
+      <itunes:duration>00:11:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PM Pulse — Thu Nov 19</title>
       <description>PM Pulse: The PM Pulse 092</description>
       <pubDate>Thu, 19 Nov 2026 11:00:24 GMT</pubDate>

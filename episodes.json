@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-19-playbook-am",
+  "title": "Playbook AM — Thu Nov 19",
+  "description": "Playbook AM: Mullin’s on TV time-out",
+  "path": "episodes/nlpod-2026-11-19-playbook-am.mp3",
+  "length": 5697552,
+  "duration": "00:11:52",
+  "seconds": 712,
+  "pubDate": "Thu, 19 Nov 2026 11:22:23 GMT",
+  "published_utc": "2026-11-19T11:22:23.548282+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-19-pm-pulse",
   "title": "PM Pulse — Thu Nov 19",
   "description": "PM Pulse: The PM Pulse 092",
