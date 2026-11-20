@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook PM — Fri Nov 20</title>
+      <description>Playbook PM: The Trump show goes on</description>
+      <pubDate>Fri, 20 Nov 2026 22:17:51 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-20-playbook-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-20-playbook-pm.mp3" length="4614288" type="audio/mpeg"/>
+      <itunes:duration>00:09:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl Midday — Fri Nov 20</title>
       <description>Punchbowl Midday: Senate Dems begin to draw Iran red line</description>
       <pubDate>Fri, 20 Nov 2026 18:37:37 GMT</pubDate>
