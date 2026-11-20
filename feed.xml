@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>PM Pulse — Fri Nov 20</title>
+      <description>PM Pulse: The PM Pulse 093</description>
+      <pubDate>Fri, 20 Nov 2026 11:02:41 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-20-pm-pulse</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-20-pm-pulse.mp3" length="3605517" type="audio/mpeg"/>
+      <itunes:duration>00:07:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morning: Punchbowl AM + Inside Congress — Fri Nov 20</title>
       <description>Punchbowl AM: Democrats’ Medicare conundrum / Inside Congress: Dems draft a curb on Iran war cash</description>
       <pubDate>Fri, 20 Nov 2026 10:10:30 GMT</pubDate>
