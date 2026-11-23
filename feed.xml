@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Punchbowl AM — Mon Nov 23</title>
+      <description>Punchbowl AM: The rise of Black power on the Hill</description>
+      <pubDate>Mon, 23 Nov 2026 12:29:39 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-23-pb-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-23-pb-am.mp3" length="6291409" type="audio/mpeg"/>
+      <itunes:duration>00:13:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Inside Congress — Mon Nov 23</title>
       <description>Inside Congress: The Bloc is deciding whether to act like one</description>
       <pubDate>Mon, 23 Nov 2026 11:30:47 GMT</pubDate>
