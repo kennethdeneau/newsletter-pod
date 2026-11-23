@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>PM Pulse — Mon Nov 23</title>
+      <description>PM Pulse: The PM Pulse 094</description>
+      <pubDate>Mon, 23 Nov 2026 10:58:59 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-23-pm-pulse</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-23-pm-pulse.mp3" length="5182605" type="audio/mpeg"/>
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl PM — Fri Nov 20</title>
       <description>Punchbowl PM: Thune on gov’t funding, Iran and FAA</description>
       <pubDate>Fri, 20 Nov 2026 22:48:30 GMT</pubDate>

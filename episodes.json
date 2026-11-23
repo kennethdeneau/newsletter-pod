@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-23-pm-pulse",
+  "title": "PM Pulse — Mon Nov 23",
+  "description": "PM Pulse: The PM Pulse 094",
+  "path": "episodes/nlpod-2026-11-23-pm-pulse.mp3",
+  "length": 5182605,
+  "duration": "00:10:48",
+  "seconds": 648,
+  "pubDate": "Mon, 23 Nov 2026 10:58:59 GMT",
+  "published_utc": "2026-11-23T10:58:59.893246+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-20-pb-pm",
   "title": "Punchbowl PM — Fri Nov 20",
   "description": "Punchbowl PM: Thune on gov’t funding, Iran and FAA",
