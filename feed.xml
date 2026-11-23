@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Mon Nov 23</title>
+      <description>Playbook AM: Newsom’s ‘show not tell’ strategy</description>
+      <pubDate>Mon, 23 Nov 2026 11:12:47 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-23-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-23-playbook-am.mp3" length="4545168" type="audio/mpeg"/>
+      <itunes:duration>00:09:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PM Pulse — Mon Nov 23</title>
       <description>PM Pulse: The PM Pulse 094</description>
       <pubDate>Mon, 23 Nov 2026 10:58:59 GMT</pubDate>
