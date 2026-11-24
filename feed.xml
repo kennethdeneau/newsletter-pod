@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Tue Nov 24</title>
+      <description>Playbook AM: Warren puts Nvidia, and Jensen, on notice</description>
+      <pubDate>Tue, 24 Nov 2026 11:10:13 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-24-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-24-playbook-am.mp3" length="4268688" type="audio/mpeg"/>
+      <itunes:duration>00:08:54</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PM Pulse — Tue Nov 24</title>
       <description>PM Pulse: The PM Pulse 095</description>
       <pubDate>Tue, 24 Nov 2026 10:59:00 GMT</pubDate>
