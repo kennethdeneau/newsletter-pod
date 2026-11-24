@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-24-pm-pulse",
+  "title": "PM Pulse — Tue Nov 24",
+  "description": "PM Pulse: The PM Pulse 095",
+  "path": "episodes/nlpod-2026-11-24-pm-pulse.mp3",
+  "length": 5912589,
+  "duration": "00:12:19",
+  "seconds": 739,
+  "pubDate": "Tue, 24 Nov 2026 10:59:00 GMT",
+  "published_utc": "2026-11-24T10:59:00.740464+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-23-playbook-pm",
   "title": "Playbook PM — Mon Nov 23",
   "description": "Playbook PM: Huang’s reverse Scaramucci",
