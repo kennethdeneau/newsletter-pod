@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Inside Congress — Wed Nov 25</title>
+      <description>Inside Congress: What voters expect from Democrats</description>
+      <pubDate>Wed, 25 Nov 2026 11:31:21 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-25-ic</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-25-ic.mp3" length="4127764" type="audio/mpeg"/>
+      <itunes:duration>00:08:36</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Playbook AM — Wed Nov 25</title>
       <description>Playbook AM: Begun, the Medicare for All war has</description>
       <pubDate>Wed, 25 Nov 2026 11:10:43 GMT</pubDate>
