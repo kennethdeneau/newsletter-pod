@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook PM — Wed Nov 25</title>
+      <description>Playbook PM: Congress’ next AI angler</description>
+      <pubDate>Wed, 25 Nov 2026 18:53:16 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-25-playbook-pm</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-25-playbook-pm.mp3" length="3869328" type="audio/mpeg"/>
+      <itunes:duration>00:08:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Punchbowl AM — Wed Nov 25</title>
       <description>Punchbowl AM: Will there be a redistricting detente?</description>
       <pubDate>Wed, 25 Nov 2026 11:53:22 GMT</pubDate>
