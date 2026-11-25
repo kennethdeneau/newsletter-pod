@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Wed Nov 25</title>
+      <description>Playbook AM: Begun, the Medicare for All war has</description>
+      <pubDate>Wed, 25 Nov 2026 11:10:43 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-25-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-25-playbook-am.mp3" length="5697552" type="audio/mpeg"/>
+      <itunes:duration>00:11:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>PM Pulse — Wed Nov 25</title>
       <description>PM Pulse: The PM Pulse 096</description>
       <pubDate>Wed, 25 Nov 2026 10:58:23 GMT</pubDate>
