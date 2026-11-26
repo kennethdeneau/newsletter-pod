@@ -1,5 +1,16 @@
 [
  {
+  "guid": "nlpod-2026-11-26-pm-pulse",
+  "title": "PM Pulse — Thu Nov 26",
+  "description": "PM Pulse: The PM Pulse 097",
+  "path": "episodes/nlpod-2026-11-26-pm-pulse.mp3",
+  "length": 3884685,
+  "duration": "00:08:06",
+  "seconds": 486,
+  "pubDate": "Thu, 26 Nov 2026 11:01:43 GMT",
+  "published_utc": "2026-11-26T11:01:43.824142+00:00"
+ },
+ {
   "guid": "nlpod-2026-11-25-playbook-pm",
   "title": "Playbook PM — Wed Nov 25",
   "description": "Playbook PM: Congress’ next AI angler",
