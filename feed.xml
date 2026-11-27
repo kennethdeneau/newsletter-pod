@@ -20,6 +20,15 @@
     <itunes:category text="News"/>
     <atom:link href="https://kennethdeneau.github.io/newsletter-pod/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Playbook AM — Fri Nov 27</title>
+      <description>Playbook AM: Democrats recast Jan. 6’s long shadow</description>
+      <pubDate>Fri, 27 Nov 2026 14:05:35 GMT</pubDate>
+      <guid isPermaLink="false">nlpod-2026-11-27-playbook-am</guid>
+      <enclosure url="https://kennethdeneau.github.io/newsletter-pod/episodes/nlpod-2026-11-27-playbook-am.mp3" length="3503184" type="audio/mpeg"/>
+      <itunes:duration>00:07:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Playbook AM — Thu Nov 26</title>
       <description>Playbook AM: Year of Jubilee</description>
       <pubDate>Thu, 26 Nov 2026 17:18:35 GMT</pubDate>
